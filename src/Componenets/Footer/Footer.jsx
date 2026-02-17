@@ -1,7 +1,7 @@
 import React from "react";
 import "./Footer.css";
-import logo from "../../Assets/mehar2_transparent.png"; 
-import user_icon from "../../Assets/user_icon.svg";
+import logo from "../../assets/mehar2_transparent.png"; 
+import user_icon from "../../assets/user_icon.svg";
 
 const Footer = () => {
     return(

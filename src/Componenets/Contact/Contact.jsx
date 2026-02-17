@@ -1,9 +1,9 @@
 import React from 'react'
 import './Contact.css';
-import theme from '../../Assets/theme_pattern.svg';
-import mail from '../../Assets/mail_icon.svg'
-import location from '../../Assets/location_icon.svg'
-import call from '../../Assets/call_icon.svg'
+import theme from '../../assets/theme_pattern.svg';
+import mail from '../../assets/mail_icon.svg'
+import location from '../../assets/location_icon.svg'
+import call from '../../assets/call_icon.svg'
 
 const Contact = () => {
     return(
