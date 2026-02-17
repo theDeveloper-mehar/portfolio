@@ -49,17 +49,17 @@ I’m a passionate Front-End Developer with a strong foundation in HTML, CSS, an
         </div>
         <div className="about-achievements">
           <div className="about-achievement">
-            <h1>3+</h1>
+            <h1>4+</h1>
             <p>Personal Projects</p>
           </div>
            <hr/>
           <div className="about-achievement">
-            <h1>1+</h1>
+            <h1>2+</h1>
             <p>years of Learning</p>
           </div>
           <hr/>
           <div className="about-achievement">
-            <h1>1</h1>
+            <h1>5</h1>
             <p>Open Source Contributions</p>
           </div>
         </div>
