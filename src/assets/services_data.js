@@ -52,11 +52,6 @@ const Services_Data = [
     s_no: "04",
     s_name: "SQL & Database Management",
     s_desc: "I write SQL queries and manage relational databases like MySQL for storing and retrieving data efficiently.",
-  },
-  {
-    s_no: "05",
-    s_name: "UI Design to Code",
-    s_desc: "I convert Figma or design mockups into fully functional and pixel-perfect websites using modern frontend technologies.",
-  },
+  }
 ];
 export default Services_Data;
